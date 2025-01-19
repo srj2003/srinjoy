@@ -26,7 +26,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 ## 🚀 Live Demo
 
-Visit the live website: [Portfolio Website](https://verdant-liger-2bbaa9.netlify.app)
+Visit the live website: [Portfolio Website](https://srinjoysaha.netlify.app/)
 
 ## 💻 Local Development
 
